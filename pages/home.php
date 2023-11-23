@@ -1,5 +1,8 @@
 <?php require "inc/header.php"; ?>
+<?php require "inc/nav.php"; ?>
 
-<h1>Начало</h1>
+<div class="container mx-auto">
+  <h1 class="text-3xl font-bold">Начало</h1>
+</div>
 
 <?php require "inc/footer.php"; ?>
