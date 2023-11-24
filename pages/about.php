@@ -1,5 +1,5 @@
 <?php require "inc/header.php"; ?>
-<header class="header about-header">
+<header class="header h-screen about-header">
   <?php require "inc/nav.php"; ?>
 
   <div class="container mx-auto">

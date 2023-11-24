@@ -16,5 +16,9 @@ $router->addRoute("$BASE_PATH/contacts", function () {
   view("contacts");
 });
 
+$router->addRoute("$BASE_PATH/courses", function () {
+  view("courses");
+});
+
 $currentPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $router->handleRequest($currentPath);
