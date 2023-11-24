@@ -1,6 +1,6 @@
 <?php require "constants.php"; ?>
 
-<ul class="flex flex-col gap-2 pb-4">
+<ul class="flex flex-col gap-2 pb-4 overflow-y-scroll">
   <?php foreach ($NAV_ITEMS as $item): ?>
     <li class="flex flex-col gap-2">
       <div class="flex gap-2 items-center pr-10">

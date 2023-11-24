@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.header {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
+
+.home-header {
+  background-image: url("/assets/images/header-img.avif");
+}
+
+.about-header {
+  background-image: url("/assets/images/about-img.avif");
+}
+
+.contacts-header {
+  background-image: url("/assets/images/contacts-img.avif");
+}

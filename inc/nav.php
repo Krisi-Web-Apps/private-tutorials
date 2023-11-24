@@ -1,6 +1,6 @@
 <nav class="text-white bg-black">
   <div class="container mx-auto">
-    <div class="h-16 flex justify-between items-center">
+    <div class="h-16 flex justify-between items-center max-md:px-10">
       <div data-logo>
         <div class="text-2xl">Частни Уроци</div>
       </div>
@@ -11,7 +11,7 @@
   </div>
 </nav>
 
-<nav class="fixed top-[60px] right-0 h-full z-10 overflow-scroll">
+<nav class="fixed top-[60px] right-0 h-full z-10">
   <div data-nav-items id="nav-items" class="h-full text-white bg-black transition-transform translate-x-full">
     <div class="min-w-[400px]">
       <?php require "inc/nav-items.php"; ?>
