@@ -1,10 +1,10 @@
 <?php require "inc/header.php"; ?>
-<header class="header h-screen home-header">
+<header class="header home-header">
   <?php require "inc/nav.php"; ?>
   <div class="mt-20 flex justify-center">
     <h1 class="w-fit rounded bg-slate-900 text-white text-4xl text-center p-20">Частни уроци по уеб програмиране</h1>
   </div>
-  <div class="text-center">
+  <div class="text-center pb-20">
     <a href="#courses-section" class="inline-block text-xl text-white bg-slate-900 py-6 px-14 mt-10 rounded">Научете повече</a>
   </div>
 </header>
@@ -32,9 +32,6 @@
             разберат контекста и важността на ефективното използване на HTML в съвременните уеб страници. Присъединете се
             към моите уроци и заедно ще изграждаме стабилна основа на познанията Ви за уеб разработката.
           </p>
-          <div class="text-center mt-5">
-            <a href="#" class="inline-block py-3 px-6 rounded text-white bg-slate-900">Научете повече</a>
-          </div>
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
@@ -50,9 +47,6 @@
             съвременното изграждане на уеб страници. Присъединете се към обученията ми и заедно ще развиваме вашия талант
             в уеб дизайна и стилизирането.
           </p>
-          <div class="text-center mt-5">
-            <a href="#" class="inline-block py-3 px-6 rounded text-white bg-slate-900">Научете повече</a>
-          </div>
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
@@ -70,9 +64,6 @@
             Присъединете се към моите уроци и заедно ще изграждаме стабилна основа за успешното изполжване на JavaScript и
             разработка на динамични уеб приложения.
           </p>
-          <div class="text-center mt-5">
-            <a href="#" class="inline-block py-3 px-6 rounded text-white bg-slate-900">Научете повече</a>
-          </div>
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
@@ -88,9 +79,6 @@
             разнообразни уеб проекти. Присъединете се към уроците ми и заедно ще изграждаме знания и умения за успешна
             употреба на PHP в уеб разработката.
           </p>
-          <div class="text-center mt-5">
-            <a href="#" class="inline-block py-3 px-6 rounded text-white bg-slate-900">Научете повече</a>
-          </div>
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
@@ -107,9 +95,6 @@
             които този фреймуърк предоставя за разнообразни уеб проекти. Присъединете се към уроците ми и заедно ще
             изграждаме знания и умения за да можете успешно да използвате Vue.js в уеб разработката.
           </p>
-          <div class="text-center mt-5">
-            <a href="#" class="inline-block py-3 px-6 rounded text-white bg-slate-900">Научете повече</a>
-          </div>
         </li>
       </ul>
     </div>

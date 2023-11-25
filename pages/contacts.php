@@ -12,7 +12,7 @@
         <a href="tel:0899718824">
           <div class="rounded bg-green-900 text-white text-center p-20">
             <div class="text-4xl">Обаждане сега</div>
-            <div class="text-xl mt-5">0899 71 88 24</div>
+            <div class="text-xl mt-5">+359 899 71 88 24</div>
           </div>
         </a>
       </li>

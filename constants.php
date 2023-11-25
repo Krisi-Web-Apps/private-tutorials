@@ -11,16 +11,6 @@ $NAV_ITEMS = array(
     "url" => "/about",
     "label" => "За мен",
   ),
-  "blog" => array(
-    "name" => "blog",
-    "url" => "/blog",
-    "label" => "Блог",
-  ),
-  "portfolio" => array(
-    "name" => "portfolio",
-    "url" => "/portfolio",
-    "label" => "Портфолио",
-  ),
   "faq" => array(
     "name" => "faq",
     "url" => "/faq",
