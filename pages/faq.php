@@ -1,3 +1,6 @@
+<?php
+  $meta_title = "Често задавани въпроси";
+?>
 <?php require "inc/header.php"; ?>
 <header class="header faq-header">
   <?php require "inc/nav.php"; ?>

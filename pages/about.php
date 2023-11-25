@@ -1,3 +1,7 @@
+<?php
+  $meta_title = "Кристиан Костадинов";
+  $meta_desc = "Като опитен програмист, посветен на създаването на динамични уеб приложения, с голяма страст споделям своите знания с учениците.";
+?>
 <?php require "inc/header.php"; ?>
 <header class="header h-screen about-header">
   <?php require "inc/nav.php"; ?>

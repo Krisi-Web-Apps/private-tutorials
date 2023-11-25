@@ -1,3 +1,7 @@
+<?php
+  $meta_title = "Частни уроци по уеб програмиране";
+  $meta_desc = "Създавам и провеждам онлайн обучения под формата на уроци, фокусирани върху изграждането на уеб страници чрез HTML, CSS & JavaScript.";
+?>
 <?php require "inc/header.php"; ?>
 <header class="header home-header">
   <?php require "inc/nav.php"; ?>

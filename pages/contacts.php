@@ -1,3 +1,6 @@
+<?php
+  $meta_title = "Контакти";
+?>
 <?php require "inc/header.php"; ?>
 <header class="header h-screen contacts-header">
   <?php require "inc/nav.php"; ?>
