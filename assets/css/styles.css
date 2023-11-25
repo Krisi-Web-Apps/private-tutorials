@@ -18,3 +18,7 @@
 .contacts-header {
   background-image: url("/assets/images/contacts-img.avif");
 }
+
+.contact-img {
+  background-image: url("/assets/images/tutorials-page-contact-img.avif");
+}
