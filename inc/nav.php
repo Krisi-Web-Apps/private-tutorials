@@ -11,8 +11,8 @@
   </div>
 </nav>
 
-<nav class="fixed top-[60px] right-0 h-full z-10">
-  <div data-nav-items id="nav-items" class="h-full text-white bg-black transition-transform translate-x-full">
+<nav>
+  <div data-nav-items id="nav-items" class="fixed top-[60px] right-0 h-full z-10 h-full text-white bg-black transition-transform translate-x-full">
     <div class="min-w-[400px]">
       <?php require "inc/nav-items.php"; ?>
     </div>
