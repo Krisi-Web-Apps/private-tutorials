@@ -21,7 +21,7 @@
       <ul class="grid gap-10 md:grid-cols-2 xl:grid-cols-3">
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
-            <img class="w-full h-full" src="/assets/images/illustrations/HTML-and-CSS-basics.jpg" alt="">
+            <img class="w-full h-full" src="/assets/images/illustrations/HTML-and-CSS-basics.jpg" decoding="async" alt="Основи на HTML">
           </div>
           <h3 class="text-2xl font-bold text-center my-5">Основи на HTML</h3>
           <p class="text-center">
@@ -35,7 +35,7 @@
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
-            <img class="w-full h-full" src="/assets/images/illustrations/CSS-basics.jpg" alt="">
+            <img class="w-full h-full" src="/assets/images/illustrations/CSS-basics.jpg" decoding="async" alt="Основи на CSS">
           </div>
           <h3 class="text-2xl font-bold text-center my-5">Основи на CSS</h3>
           <p class="text-center">
@@ -50,7 +50,7 @@
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
-            <img class="w-full h-full" src="/assets/images/illustrations/JavaScript-basics.jpg" alt="">
+            <img class="w-full h-full" src="/assets/images/illustrations/JavaScript-basics.jpg" decoding="async" alt="Основи на JavaScript">
           </div>
           <h3 class="text-2xl font-bold text-center my-5">Основи на JavaScript</h3>
           <p class="text-center">
@@ -67,7 +67,7 @@
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
-            <img class="w-full h-full" src="/assets/images/illustrations/PHP-basics.png" alt="">
+            <img class="w-full h-full" src="/assets/images/illustrations/PHP-basics.png" decoding="async" alt="Основи на PHP">
           </div>
           <h3 class="text-2xl font-bold text-center my-5">Основи на PHP</h3>
           <p class="text-center">
@@ -82,7 +82,7 @@
         </li>
         <li class="rounded shadow-xl p-10">
           <div class="max-w-[140px] max-h-[140px] rounded-full mx-auto overflow-hidden">
-            <img class="w-full h-full" src="/assets/images/illustrations/Vue.png" alt="">
+            <img class="w-full h-full" src="/assets/images/illustrations/Vue.png" decoding="async" alt="Основи на Vue.js">
           </div>
           <h3 class="text-2xl font-bold text-center my-5">Основи на Vue.js</h3>
           <p class="text-center">
@@ -103,14 +103,14 @@
   <div class="container mx-auto max-md:px-10">
     <section class="mt-20">
       <div class="grid gap-10 md:grid-cols-2 items-center">
-        <img src="/assets/images/why-trust-me-img.jpg" alt="">
+        <img src="/assets/images/why-trust-me-img.jpg" decoding="async" alt="">
         <div>
           <h2 class="text-slate-900 text-4xl font-bold max-md:text-center">Защо да се доверите на мен?</h2>
           <p class="text-xl py-10 max-md:text-center">
             Можете да се на мен като преподавател, защото не само притежавам богат опит и знание в областта на
             програмирането, но и
             създавам учебна среда, където ученето става вдъхновяващо и практично приключение. С посветеност и
-            индивидуален подход, ще ви насоча към усвояване на материала, като ви вдъхновявам да прилагате наученото в
+            индивидуален подход, ще ви помогна да усвоите материала, като ви вдъхновявам да прилагате наученото в
             реални проекти. Работейки заедно, ще усвоите фундаментални знания и умения, за успешно справяне на
             предизвикателствата в уеб разработката.
           </p>
@@ -135,17 +135,17 @@
       </p>
       <ul class="grid gap-10 md:grid-cols-4 items-center">
         <li>
-          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Viber.png" alt="Viber" title="Viber">
+          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Viber.png" decoding="async" alt="Viber" title="Viber">
         </li>
         <li>
-          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Google-Meet.png" alt="Google Meet"
+          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Google-Meet.png" decoding="async" alt="Google Meet"
             title="Google Meet">
         </li>
         <li>
-          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Zoom.png" alt="Zoom" title="Zoom">
+          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Zoom.png" decoding="async" alt="Zoom" title="Zoom">
         </li>
         <li>
-          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Discord.png" alt="Discord" title="Discord">
+          <img class="max-w-[200px] mx-auto" src="/assets/images/platform-logos/Discord.png" decoding="async" alt="Discord" title="Discord">
         </li>
       </ul>
     </div>
@@ -154,13 +154,13 @@
   <section class="mt-20 max-md:px-10">
     <div class="container mx-auto">
       <h2 class="text-4xl text-center font-bold">Предимства на обучението с частен учител</h2>
-      <p class="max-w-xl mx-auto text-xl text-center mt-5 mb-10">Ако изберете обучение по профрамиране с опитен частен
-        ичител, имате няколко важни предимства пред други
+      <p class="max-w-xl mx-auto text-xl text-center mt-5 mb-10">Ако изберете обучение по програмиране с опитен частен
+        учител, имате няколко важни предимства пред други
         частни и традиционни учебни заведения.</p>
       <ul class="grid gap-10 md:grid-cols-2">
         <li class="text-center">
           <img class="max-w-[200px] max-h-[200px] mx-auto" src="/assets/images/illustrations/Personalized-approach.svg"
-            alt="Персонализиран подход" title="Персонализиран подход">
+            alt="Персонализиран подход" title="Персонализиран подход" decoding="async">
           <h3 class="font-bold text-3xl my-5">Персонализиран подход</h3>
           <p class="text-xl">
             Онлайн обучението с частен учител предоставя възможност за персонализиран подход, където учителят може да
@@ -169,17 +169,17 @@
         </li>
         <li class="text-center">
           <img class="max-w-[200px] max-h-[200px] mx-auto" src="/assets/images/illustrations/Individual-attention.svg"
-            alt="Персонализиран подход" title="Персонализиран подход">
+            alt="Персонализиран подход" title="Персонализиран подход" decoding="async">
           <h3 class="font-bold text-3xl my-5">Индивидуално внимание</h3>
           <p class="text-xl">
             С частния учител, начинаещите получават по-голямо индивидуално внимание и обратна връзка, което може да
-            ускори процеса на усвояване на нови понятия и умения.
+            ускори процеса на усвояване на нови знания и умения.
           </p>
         </li>
         <li class="text-center">
           <img class="max-w-[200px] max-h-[200px] mx-auto"
             src="/assets/images/illustrations/Flexibility-in-scheduling.svg" alt="Персонализиран подход"
-            title="Персонализиран подход">
+            title="Персонализиран подход" decoding="async">
           <h3 class="font-bold text-3xl my-5">Гъвкавост в графика</h3>
           <p class="text-xl">
             Онлайн обучението позволява гъвкавост в графика, като учениците могат да избират удобни за тях часове за
@@ -189,7 +189,7 @@
         <li class="text-center">
           <img class="max-w-[200px] max-h-[200px] mx-auto"
             src="/assets/images/illustrations/Share-screen.svg" alt="Персонализиран подход"
-            title="Персонализиран подход">
+            title="Персонализиран подход" decoding="async">
           <h3 class="font-bold text-3xl my-5">Споделяне на екран и реално време на живо</h3>
           <p class="text-xl">
             Чрез технологични инструменти като споделяне на екран и връзка в реално време, учителят може да демонстрира

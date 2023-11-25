@@ -12,17 +12,17 @@ html {
 }
 
 .home-header {
-  background-image: url("/assets/images/header-img.avif");
+  background-image: url("/assets/images/header-img.png");
 }
 
 .about-header {
-  background-image: url("/assets/images/about-img.avif");
+  background-image: url("/assets/images/about-img.png");
 }
 
 .contacts-header {
-  background-image: url("/assets/images/contacts-img.avif");
+  background-image: url("/assets/images/contacts-img.png");
 }
 
 .contact-img {
-  background-image: url("/assets/images/tutorials-page-contact-img.avif");
+  background-image: url("/assets/images/tutorials-page-contact-img.png");
 }

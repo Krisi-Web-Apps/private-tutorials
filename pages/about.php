@@ -23,11 +23,11 @@
     <div class="container mx-auto">
       <h2 class="text-4xl text-center font-bold mb-10 max-md:px-10">Повече за преподавателя</h2>
       <div class="grid gap-10 md:grid-cols-2 items-center max-md:px-10">
-        <img src="/assets/images/illustrations/about-page-img.svg" alt="">
+        <img src="/assets/images/illustrations/about-page-img.svg" alt="Повече за преподавателя">
         <div class="flex flex-col gap-5 text-slate-900 text-xl max-md:text-center">
           <p>
             Като опитен програмист, посветен на създаването на динамични уеб приложения, с голяма страст споделям своите
-            знания с учениците. Обединявам богатия си опит с подкрепящ и вдъхновяващ подход, с цел да помогна на
+            знания с учениците. Обединявам богатия си опит с подкрепa и вдъхновяващ подход, с цел да помогна на
             учениците да освоят исновните умения и компетенции в уеб програмирането.
           </p>
           <p>
